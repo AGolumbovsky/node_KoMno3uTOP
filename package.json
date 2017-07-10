@@ -1,0 +1,22 @@
+{
+  "name": "node_compo3utop",
+  "version": "1.0.0",
+  "description": "make music great again",
+  "main": "c.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AGolumbovsky/node_KoMno3uTOP.git"
+  },
+  "author": "\u001b[A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AGolumbovsky/node_KoMno3uTOP/issues"
+  },
+  "homepage": "https://github.com/AGolumbovsky/node_KoMno3uTOP#readme",
+  "dependencies": {
+    "scribbletune": "^0.9.1"
+  }
+}
